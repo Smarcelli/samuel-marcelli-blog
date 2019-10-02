@@ -14,5 +14,6 @@ navbar:
 base_url: https://Smarcelli.github.io/samuel-marcelli-blog/
 collections:
     posts:
+      disqus: samuel-marcelli-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
