@@ -1,8 +1,16 @@
 ---
 title: "About me"
 ---
+First name : Marcelli
 
+Surname: Samuel
 
-This section also must include: 
+Teacher's name: Ingrid Van Lancker
 
-- first name/surname, teacher’s name, class name and academic year
+My class: BAB2-BIOLOGIE
+
+My group: Group 2
+
+Schoolyear: 2019-2020
+
+Subject: 
