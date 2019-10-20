@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-20-my-post/",
+    "title": "IUCN list shows no new extinctions – but they loom large",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Samuel Marcelli",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-21T00:19:31+02:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
     "description": {},
