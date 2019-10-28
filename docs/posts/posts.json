@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-10-20-my-post/",
     "title": "IUCN list shows no new extinctions – but they loom large",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Samuel Marcelli",
@@ -12,7 +12,7 @@
     "date": "2019-10-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-21T00:19:31+02:00"
+    "last_modified": "2019-10-21T00:52:59+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -30,6 +30,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:41:12+02:00"
+    "last_modified": "2019-10-21T00:53:31+02:00"
   }
 ]

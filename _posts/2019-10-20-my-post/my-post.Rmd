@@ -1,7 +1,6 @@
 ---
 title: "IUCN list shows no new extinctions – but they loom large"
-description: |
-  A short description of the post.
+
 author:
   - name: Samuel Marcelli
     url: {}
