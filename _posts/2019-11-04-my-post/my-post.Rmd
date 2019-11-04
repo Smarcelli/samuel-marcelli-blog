@@ -1,0 +1,50 @@
+---
+title: "Article 2  :Why Don’t We Hear about More Species Going Extinct?"
+description: The extinction crisis threatens life all over the planet, but scientists are cautious about declaring a species extinct too quickly
+
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 11-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://blogs.scientificamerican.com/extinction-countdown/why-dont-we-hear-about-more-species-going-extinct/
+
+Word count: 1694
+
+### VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                                                                 | French translation  |
+| ------------------ | --------------------------------------------------------------------------------------------- | ------------------- |
+| midst              | The position of occurring in the middle of a period of time, etc;                             | au milieu de        |
+| display            | To reveal;demonstrate                                                                         | démonsration        |
+| witness            |  See, hear, or know by personal presence and experience                                       | témoin              |
+| lack               | Absence of something needed or desirable;not enough of something needed or desired            | pénurie             |
+| field              | A particular branch of activity or interest                                                   | domaine             |
+| survey             | A general view, description, course of study, etc                                             | enquête/sondage     |
+| understandably     | To see or perceive the meaning of;comprehend                                                  | comprendre aisément |
+| assessed           | To determine the amount of (damages, etc.)                                                    | évaluer/estimer     |
+| samples            | A small part from a larger whole, showing the quality, style, or nature of the whole;specimen | échantillon         |
+| rely               | To put trust in                                                                               | compter sur          |
+| policymakers       | A person responsible for making policy, esp. in government.                                   | législateur         |
+| brink              | The edge of any steep place or of land bordering water                                        | bord                |
+
+### ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers                        | John R. Platt                                                                                                                                                                                                                                |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? when (if mentioned)? | This post first appeared on The Revelator on May 28, 2019                                                                                                                                                                                    |
+| General topic                      | Declaring a species extinct, how to decide if a animal is extinct                                                                                                                                                                            |
+| Procedure/ what was examined       | It's very difficult for the scientist to decide if a animal is extinct or not, there is rules to take this decision: It take a lot of times for an organism to disappear, mistakes are costly, you can't declare extinct what you don't know |
+| Conclusions/ discovery             | You have to meet all the conditions to declare a species extinct, which takes a lot of time and is sometimes very imprecise. That's why we do not hear extinctions every day.                                                                |
+| Remaining questions                | But how do we know how many are going extinct?                                                                                                                                                                                               |
+

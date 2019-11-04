@@ -1,0 +1,40 @@
+---
+title: " Article 1 :IUCN list shows no new extinctions – but they loom large"
+
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 10-20-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.newscientist.com/article/dn27765-iucn-list-shows-no-new-extinctions-but-they-loom-large/
+
+Word count: 394
+
+### VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                           | French translation          |
+| ------------------ | ------------------------------------------------------- | --------------------------- |
+| loom               | To assume form as an event about to happen              | menacer, se profiler        |
+| prompt             | To cause (someone) to do some action                    | pousser [qqn] à faire [qch] |
+| treath             |  Sign or warning of trouble or danger                   | menace                      |
+| endemic            | Belonging exclusively or confined to a particular place | endémique                   |
+| gathering          |  A collection, assemblage, or compilation of anything   | recueillir/collecter        |
+| endangered         | (of a species) seriously at risk of extinction          | en voie d'extinction        |
+
+### ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers?                       | IUCN ( International Union for Conservation of Nature ), Gerardo Ceballos, article written by Colin Barras                                                                                                              |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? when (if mentioned)? | 23 June 2015                                                                                                                                                                                                            |
+| General topic                      | List of species threatened with extinction; new massive extinction                                                                                                                                                      |
+| Procedure/ what was examined       | - no new extinction; many species in decline; 23,000 species threatened with extinction                                                                                                                               |
+| Conclusions/ discovery             | -    extinction rates are much higher than expected; we are entering a period of mass extinction;  if nothing it's done, it can be a dramatic loss of biodiversity; encouraging authorities to take protective actions  |
+| Remaining questions                | /                                                                                                                                                                                                                       |
