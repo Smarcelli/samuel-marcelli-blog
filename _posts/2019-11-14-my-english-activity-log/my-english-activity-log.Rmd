@@ -1,0 +1,31 @@
+---
+title: "My english activity log"
+description: From now on, you will use this article to include every single activity that you do in English in a chronological order (e.g. reading a book in English, watching TV shows and series in English, going to an English Evening in Mons, travelling to an English-speaking country, playing games in English such as the pretty exciting game LyricsTraining, etc.). You can even write a few lines about what you’ve watched/read/done and recommend certain things to your friends. The sky’s the limit! We value personal initiative and we will be happy to read whatever you have to offer.
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 11-14-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Series
+
+11th november: I watched 2 episodes of "How to get away with murder"
+
+13th november: I watched 1 episode of "How to get away with murder"
+
+14th november: I watched 2 episodes of "How to get away with murder"
+
+## Music
+
+7th november: I read the lyrics of the song called "Sunflower- Post Malone,Swae Lee" to understand words that I didn't recognize or words I didn't know
+
+## Language
+
+14th november: I changed my smartphone language into english
