@@ -38,7 +38,7 @@ Word count: 1694
 | policymakers       | A person responsible for making policy, esp. in government.                                   | législateur         |
 | brink              | The edge of any steep place or of land bordering water                                        | bord                |
 
-### ANALYSIS TABLE ABOUT THE STUDY
+### ANALYSIS TABLE ABOUT THE STUDY:
 
 | Researchers                        | John R. Platt                                                                                                                                                                                                                                |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

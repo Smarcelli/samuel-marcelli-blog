@@ -1,0 +1,44 @@
+---
+title: "Article 3 :Scientists warn a million species at risk of extinction"
+description: 
+ 
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.reuters.com/article/us-un-environment-biodiversity/scientists-warn-a-million-species-at-risk-of-extinction-idUSKCN1SC0PJ
+
+Word count: 628
+
+### VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                                                                                                                                 | French Translation                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| humankind          | human beings considered collectively (used as a neutral alternative to “mankind”).                                                                            | humanité                             |
+| relentless         | oppressively constant; incessant.                                                                                                                             | incessant                            |
+| vested             | secured in the possession of or assigned to a person                                                                                                          | acquis                               |
+| chaired            | to direct the running of (a meeting, etc.);act as chairperson of                                                                                              | présidé                              |
+| gesture            | a movement or position of the hand, arm, body, head, or face that expresses an idea, opinion, emotion, etc                                                    | sens dans le texte: geste de la main |
+| long-lasting       | enduring or existing for a long period of time                                                                                                                | durable                              |
+| undertaken         | to take upon oneself, as a task or performance;attempt                                                                                                        | entrepris                            |
+| fates              | something that unavoidably happens to a person;one's fortune or lot                                                                                           | destin                               |
+| embrace            | to accept or adopt willingly                                                                                                                                  | accepter (une idée)                  |
+| upsurge            | to surge up;increase;rise.                                                                                                                                    | augmentation                         |
+| blunt              | abrupt in manner, without politeness:                                                                                                                         | direct ( sans politesse)             |
+| curb               | anything that restrains or controls;restraint;check:                                                                                                          | freiner ( la progression de qqch)    |
+| greenhouse gases   | any of the gases that absorb energy from the sun and so contribute to the greenhouse effect, including carbon dioxide, methane, ozone, and the fluorocarbons. | gaz à effet de serre                 |
+
+### ANALYSIS TABLE ABOUT THE STUDY:
+
+

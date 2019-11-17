@@ -31,7 +31,7 @@ Word count: 394
 | gathering          |  A collection, assemblage, or compilation of anything   | recueillir/collecter        |
 | endangered         | (of a species) seriously at risk of extinction          | en voie d'extinction        |
 
-### ANALYSIS TABLE ABOUT THE STUDY
+### ANALYSIS TABLE ABOUT THE STUDY:
 
 | Researchers?                       | IUCN ( International Union for Conservation of Nature ), Gerardo Ceballos, article written by Colin Barras                                                                                                              |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
