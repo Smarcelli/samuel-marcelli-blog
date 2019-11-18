@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 14th november: I watched 2 episodes of "How to get away with murder"
 
+17th november: I watched 2 episodes of "How to get away with murder" 
+
 ## Music
 
 7th november: I read the lyrics of the song called "Sunflower- Post Malone,Swae Lee" to understand words that I didn't recognize or words I didn't know
