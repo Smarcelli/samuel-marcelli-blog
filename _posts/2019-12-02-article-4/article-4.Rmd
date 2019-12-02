@@ -1,0 +1,46 @@
+---
+title: "Article 4: Animals in Danger of Extinction | Causes and Effects of Extinction"
+description: Extinction is when an animal species no longer  lives on the Earth. Extinction is nothing new, but what is new are some of the reasons the Earth is now losing more animals, at a faster rate than it is believed ever before in Earth’s history.
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 12-02-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://animalstime.com/animals-danger-extinction-causes-effects-endangerment/
+
+Word count: 751
+
+### VOCABULARY: 
+
+| Word from the text | Synonim/ definition in English                                                                                                                  | French Translation |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| weed               | Undesirable or unwanted plant growing wild, esp. one that takes food or nourishment from a crop, lawn, or flower bed.                           | mauvaise herbe     |
+| grassland          | An area, as a prairie, in which the natural vegetation consists largely of perennial grasses, characteristic of subhumid and semiarid climates. | prairie            |
+| harmful            | Causing or capable of causing harm.                                                                                                             | nocif              |
+| soil               | The portion of the earth's surface made up of humus; earth:                                                                                     | sol                |
+| harvesting         | The season when ripened crops are gathered.                                                                                                     | moisson            |
+| tusks              | Animal tooth developed to great length, usually one of a pair, as in the elephant.                                                              | défense (éléphant) |
+| poaching           | The illegal practice of trespassing on another's property to hunt or steal game without the landowner's permission.                             | braconnage         |
+
+
+
+
+### ANALYSIS TABLE ABOUT THE STUDY:
+
+| Researchers?                       | Waleed Khalid (author),  E. O. Wilson (researcher)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? when (if mentioned)? | Animal's Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| General topic                      | Causes and Effects of Extinction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Procedure/ what was examined       | The causes of animals in danger of extinction can be explained using the acronym H-I-P-P-O. H for habitat; One of the most common reason is loss of habitat. I for invasive species; Organism that moves into a new area, where it has not lived before, and over takes other living things. P for pollution; Human activity is releasing harmful chemicals into the air, water and soil all over the planet. Many animals cannot adapt to the changes these chemicals are making in the  environment and they die. P for population; The human population explosion is having devastating effects on the whole planet. O for overharvesting;  As the human population continues to grow more  animals are hunted for food. |
+| Conclusions/ discovery             | There are many consequences if these animals in danger of extinction become extinct. Of course, the loss of their beauty is very important. But beyond beauty, each of these species is part of a whole system.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Remaining questions                | Humans are animals too; if the animals are in trouble and dying, what will happen to us?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
