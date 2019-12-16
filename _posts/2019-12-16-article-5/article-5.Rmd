@@ -1,0 +1,44 @@
+---
+title: "Article 5: Domino effect: The loss of plant species triggers the extinction of animals"
+description: When plant species disappear due to climate change, this may lead to the subsequent loss of various animal species. Insects which depend on interactions with specific plant partners are particularly threatened. Plants, in contrast, will be less sensitive to the disappearance of their animal partners, according to a new article.
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 12-16-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.sciencedaily.com/releases/2017/01/170104103920.htm
+
+Word count: 543
+
+### VOCABULARY: 
+
+| Word from the text | Synonim/ definition in English | French Translation   |
+| ------------------ | ------------------------------ | -------------------- |
+| trigger            | (set in motion, provoke)       | déclancher,provoquer |
+| subsequent         | later,following                | ultérieur,suivant    |
+| harebell           | plant with bell-shaped flowers | campanule            |
+| instance           | one i a series                 | cas                  |
+| reallocate         | apportion or distribute again  | réaffecter           |
+| rewire             | refit with electrical wiring   | recâbler             |
+
+
+### ANALYSIS TABLE ABOUT THE STUDY:
+
+
+|  Researchers?                      | Senckenberg Research Institute and Natural History Museum                                                                                                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Published in? when (if mentioned)? | January 4, 2017, Ecological networks are more sensitive to plant than to animal extinction under climate change. Nature Communications                                                                                                                                                                       |
+| General topic                      | When plant species disappear due to climate change, this may lead to the subsequent loss of various animal species.                                                                                                                                                                                          |
+| Procedure/ what was examined       | When plant species disappear due to climate change, this may lead to the subsequent loss of various animal species. Insects which depend on interactions with specific plant partners are particularly threatened. Plants, in contrast, will be less sensitive to the disappearance of their animal partners |
+| Conclusions/ discovery             | A consideration of biotic interactions between animals and plants is therefore important for predicting the impacts of climate change on biodiversity.”                                                                                                                                                      |
+| Remaining questions                | /                                                                                                                                                                                                                                                                                                            |
