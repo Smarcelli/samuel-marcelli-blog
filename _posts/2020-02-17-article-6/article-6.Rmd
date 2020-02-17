@@ -1,0 +1,49 @@
+---
+title: "Article 6:What Should Every Student Know about Endangered Animals in 2019?"
+description: 
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 02-17-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://animalstime.com/endangered-animals-in-2019/
+
+Word count: 774
+
+
+
+### VOCABULARY: 
+
+| Word from the text | Synonym/defintion in English | French translation |
+| ------------------ | ---------------------------- | ------------------ |
+| offspring          | child                        | progéniture        |
+| occurs             | happen                       | se produire        |
+| unprecedented      | not seen before              | sans précédent     |
+| hide               | leather/skin                 | peau               |
+| inedible           | not fit to be eaten          | pas comestible     |
+| mow                | lawn/grass                   | tondre             |
+| dump               | rubbish tip                  | décharge           |
+| startling          | alarming                     | surprenant         |
+| adversely          | negatively                   | défavorablement    |
+
+
+
+### ANALYSIS TABLE ABOUT THE STUDY:
+
+|  Researchers?                      | writer: Murad                                                                                                                                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Published in? when (if mentioned)? | Animal List                                                                                                                                                                                                                          |
+| General topic                      | Explaining for the students the causes and solutions about animal extinction                                                                                                                                                         |
+| Procedure/ what was examined       | The reasons of animal extinction is the evolution, the humans that kill animal for their hide, tusks, and other body parts, and the habitats that change to fast ( often caused by humans)                                           |
+| Conclusions/ discovery             | The most important fact about endangered species is that they are not doomed and can be preserved by donating to charity. Sometimes people doesn't know that they will kill animals ( for example throwing a bottle in the water...) |
+| Remaining questions                | /                                                                                                                                                                                                                                    |
