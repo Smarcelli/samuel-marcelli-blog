@@ -1,0 +1,42 @@
+---
+title: "Article 7:Infographic: How to Predict If a Species Is At Risk"
+description: To calculate the likelihood that organisms will be harmed by climate change, researchers estimate their exposure, sensitivity, and ability to adapt to new conditions.
+author:
+  - name: Samuel Marcelli
+    url: {}
+date: 03-02-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.the-scientist.com/infographics/infographic--how-to-predict-if-a-species-is-at-risk-64372
+
+Word count: 397
+
+### VOCABULARY: 
+
+| Word from the text | Synonym/defintion in English | French translation |
+| ------------------ | ---------------------------- | ------------------ |
+| likelihood         | probability                  | probabilité        |
+| trait              | characteristic               | trait              |
+| adverse            | negative                     | négatif            |
+| abiotic            | non-living                   | abiotique          |
+| magnify            | make appear larger           | grossir            |
+
+
+### ANALYSIS TABLE ABOUT THE STUDY:
+
+| Researchers?                        | Catherine Offord                                                                                                                                                                                                                                                                                          |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Published in? when (if mentioned)? | Jun 30, 2018                                                                                                                                                                                                                                                                                              |
+| General topic                       | Factors that predict if a species is at risk of extinction                                                                                                                                                                                                                                                |
+| Procedure/ what was examined        | Researchers use assessments that takes a trait-based approach, calculating organisms’ vulnerability.                                                                                                                                                                                                      |
+| Conclusions/ discovery              | Sensitivity : low reproduction rate,narrow tolerance range, small population range, specialization, species interactions. Adaptive Capacity : epigenetic variation, genetic diversity, migration, phenotypic plasticity. Exposure: fire, aridity, ice melting, temperature fluctuations, rising sea level |
+| Remaining questions                 | /                                                                                                                                                                                                                                                                                                         |
